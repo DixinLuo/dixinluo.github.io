@@ -2,11 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Here is a list of courses that I have been involved in:
 
-Organize your courses by years, topics, or universities, however you like!
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for international students and students majored in Data Science (English), BIT, Fall 2024
+
+- Course Instructor, [Swarm Intelligence], BIT, Spring 2024
+
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for international students and students majored in Data Science (English), BIT, Fall 2023
+
+- Course Instructor, [Swarm Intelligence], BIT, Spring 2023
+
+- Course Instructor, [Programming with Python](https://python123.io/), BIT, Spring 2023
+
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for students majored in Data Science (English), BIT, Fall 2022
+
+- Course Instructor, [Programming with Python](https://python123.io/), BIT, Spring 2022
+
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for students majored in Data Science (English), BIT, Fall 2021
+
+- Teaching Assistant, [Data Analytics: Introduction, Methods and Practical Approaches, INF2190H](https://ischool.utoronto.ca/wp-content/uploads/2016/11/inf21902016fallandritsossyllabus-1.pdf) (Instructor: Periklis Andritsos), University of Toronto, Fall 2016
+
+<!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like! -->
