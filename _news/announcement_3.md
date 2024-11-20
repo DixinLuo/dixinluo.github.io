@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-20 16:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+:star2: My student Jiayi presented the paper "Generalizable Face Landmarking Guided by Conditional Face Warping" at CVPR 2024 in Seattle, Washington, United States.
