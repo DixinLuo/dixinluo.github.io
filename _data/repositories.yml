@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Dixin-Lab
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Dixin-Lab/generalized-face-landmarker
+  - Dixin-Lab/Automatic-Movie-Trailer-Generator
+  - Dixin-Lab/Video-Summary-IOT
+  - Dixin-Lab/GSOT
+  - Dixin-Lab/CNPP
