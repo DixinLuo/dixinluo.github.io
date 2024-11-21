@@ -30,7 +30,7 @@ nav_order: 4
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like! -->
 
-<h1 style="text-align:center;">$${\color{Fuchsia}teaching}$$</h1>
+<h1 style="text-align:center;">$${\color{Fuchsia}talks}$$</h1>
 
 - Robust Graph Matching Using An Unbalanced Hierarchical Optimal Transport Framework, the 2nd SMAIE Annual Workshop, November 6, 2024
 
