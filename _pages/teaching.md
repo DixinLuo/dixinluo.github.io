@@ -32,7 +32,9 @@ nav_order: 4
 
 <h1 style="text-align:center;">$${\color{Fuchsia}talks}$$</h1>
 
+- Learning to Align: Multi-modal Video Understanding based on Optimal Transport, Forbidden City Young Scholars Forum, November 22, 2024
+
 - Robust Graph Matching Using An Unbalanced Hierarchical Optimal Transport Framework, the 2nd SMAIE Annual Workshop, November 6, 2024
 
-- Learning to Align: An Optimal Transport Perspective of Multi-modal Video Understanding, Academic Frontier Lecture No. 77, Renmin University of China, June 6, 2024
+- An Optimal Transport Perspective of Multi-modal Video Understanding, Academic Frontier Lecture No. 77, Renmin University of China, June 6, 2024
 
