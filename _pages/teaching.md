@@ -26,7 +26,7 @@ nav_order: 4
 
 - Course Instructor, [Programming with Python (English)](https://python123.io/), for students majored in Data Science (English), BIT, Fall 2021
 
-- Teaching Assistant, [Data Analytics: Introduction, Methods and Practical Approaches, INF2190H](https://ischool.utoronto.ca/wp-content/uploads/2016/11/inf21902016fallandritsossyllabus-1.pdf) (Instructor: Periklis Andritsos), University of Toronto, Fall 2016
+- Teaching Assistant, [Data Analytics: Introduction, Methods and Practical Approaches, INF2190H]([https://ischool.utoronto.ca/wp-content/uploads/2016/11/inf21902016fallandritsossyllabus-1.pdf](https://ischool.utoronto.ca/course/data-analytics-introduction-methods-and-practical-approaches/)) (Instructor: Periklis Andritsos), University of Toronto, Fall 2016
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. Organize your courses by years, topics, or universities, however you like! -->
 
