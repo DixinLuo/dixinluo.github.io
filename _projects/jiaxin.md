@@ -3,7 +3,7 @@ layout: page
 title: Jiaxin Zhang
 description: Undergraduate Student
 img: assets/img/people/jiaxin.jpg
-importance: 1
+importance: 8
 category: current 
 related_publications: false
 ---
