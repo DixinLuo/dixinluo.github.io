@@ -4,7 +4,7 @@ title: Yutong Wang
 description: Master Student
 img: assets/img/people/wyt.jpg
 importance: 2
-category: Graduate 
+category: current 
 related_publications: false
 ---
 
