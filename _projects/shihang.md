@@ -3,7 +3,7 @@ layout: page
 title: Shihang Xia
 description: Undergraduate Student
 img: assets/img/people/shihang.jpg
-importance: 2
+importance: 9
 category: current
 related_publications: false
 ---
