@@ -3,6 +3,7 @@ layout: page
 title: Yutong Wang
 description: Master Student
 img: assets/img/people/wyt.jpg
+redirect: https://yutongwang1012.github.io/
 importance: 2
 category: current 
 related_publications: false
