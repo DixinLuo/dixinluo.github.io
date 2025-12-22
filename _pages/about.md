@@ -21,10 +21,10 @@ social: false # includes social icons at the bottom of the page
 I am a machine learning scientist. 
 I am currently working as an Assistant Professor at Beijing Institute of Technology, Beijing, China. 
 My research aims to develop robust and generalizable machine learning models and algorithms that solve challenging real-world problems. 
-I have been focusing on several research topics, including multi-modal learning, sequential data analysis, and graph analysis. 
+I have been focusing on several research topics, including multi-modal learning, and controllable image and video editing. 
 In terms of methodology, I'm interested in computational optimal transport, temporal point processes, and their applications in various domains.
 
-I received my PhD and BE in Electronic Engineering from Shanghai Jiao Tong University (SJTU), in 2016 and 2010, respectively, where I was jointly supervised by Prof. Wenjun Zhang (SJTU), Prof. Hongyuan Zha (Georgia Tech) and Prof. Xiaokang Yang (SJTU). 
+I received my PhD and BE in Electronic Engineering from Shanghai Jiao Tong University (SJTU) in 2016 and 2010, respectively, where I was jointly supervised by Prof. Wenjun Zhang (SJTU), Prof. Hongyuan Zha (Georgia Tech), and Prof. Xiaokang Yang (SJTU). 
 After that, I spent four incredible years at University of Toronto and Duke University as a postdoctoral fellow.
 
 **I am recruiting talented and well-motivated undergrad/graduate students to work with on interesting research projects! 
