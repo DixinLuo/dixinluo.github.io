@@ -10,21 +10,25 @@ nav_order: 4
 <h1 style="text-align:center;">$$\color{Fuchsia}teaching$$</h1>
 <!-- Here is a list of courses that I have been involved in: -->
 
-- Course Instructor, [Programming with Python (English)](https://python123.io/), for international students and students majored in Data Science (English), BIT, Fall 2024
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for international students and students majoring in Data Science (English), BIT, Fall 2025
+
+- Course Instructor, [Swarm Intelligence], BIT, Spring 2025
+
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for international students and students majoring in Data Science (English), BIT, Fall 2024
 
 - Course Instructor, [Swarm Intelligence], BIT, Spring 2024
 
-- Course Instructor, [Programming with Python (English)](https://python123.io/), for international students and students majored in Data Science (English), BIT, Fall 2023
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for international students and students majoring in Data Science (English), BIT, Fall 2023
 
 - Course Instructor, [Swarm Intelligence], BIT, Spring 2023
 
 - Course Instructor, [Programming with Python](https://python123.io/), BIT, Spring 2023
   
-- Course Instructor, [Programming with Python (English)](https://python123.io/), for students majored in Data Science (English), BIT, Fall 2022
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for students majoring in Data Science (English), BIT, Fall 2022
 
 - Course Instructor, [Programming with Python](https://python123.io/), BIT, Spring 2022
 
-- Course Instructor, [Programming with Python (English)](https://python123.io/), for students majored in Data Science (English), BIT, Fall 2021
+- Course Instructor, [Programming with Python (English)](https://python123.io/), for students majoring in Data Science (English), BIT, Fall 2021
 
 - Teaching Assistant, [Data Analytics: Introduction, Methods and Practical Approaches, INF2190H](https://ischool.utoronto.ca/course/data-analytics-introduction-methods-and-practical-approaches/) (Instructor: Periklis Andritsos), University of Toronto, Fall 2016
 
