@@ -4,6 +4,8 @@
 repo_description_lines_max: 2
 
 github_repos:
+  - Dixin-Lab/BFVR-STC
+  - Dixin-Lab/MMSC
   - Dixin-Lab/generalized-face-landmarker
   - Dixin-Lab/Automatic-Movie-Trailer-Generator
   - Dixin-Lab/Video-Summary-IOT
