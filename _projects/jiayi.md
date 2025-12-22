@@ -4,7 +4,7 @@ title: Jiayi Liang
 description: Master Student
 img: assets/img/people/jiayi.jpg
 importance: 1
-category: current 
+category: alumni 
 related_publications: false
 ---
 
