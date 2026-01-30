@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant Professor. Beijing Institute of Technology.</a>
+subtitle: <a href='#'>Associate Professor. Beijing Institute of Technology.</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a machine learning scientist. 
-I am currently working as an Assistant Professor at Beijing Institute of Technology, Beijing, China. 
+I am currently working as an Associate Professor at Beijing Institute of Technology, Beijing, China. 
 My research aims to develop robust and generalizable machine learning models and algorithms that solve challenging real-world problems. 
 I have been focusing on several research topics, including multi-modal learning, and controllable image and video editing. 
 In terms of methodology, I'm interested in computational optimal transport, temporal point processes, and their applications in various domains.
